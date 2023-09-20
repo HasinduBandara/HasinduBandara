@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/hasindubandara" target="blank"><img src="https://img.shields.io/twitter/follow/hasindubandara?logo=twitter&style=for-the-badge" alt="hasindubandara" /></a> </p>
 
-- 🔭 I’m currently working on [dd](dd)
+- 🔭 I’m currently working in **Bank Of Ceylon**
 
-- 🌱 I’m currently learning **dd**
+- 🌱 I’m **Undergraduate Software Engineering student in SLIIT**
 
 - 👯 I’m looking to collaborate on [dd](dd)
 
-- 🤝 I’m looking for help with [dd](dd)
-
-- 👨‍💻 All of my projects are available at [d](d)
+- 👨‍💻 All of my projects are available at [https://github.com/HasinduBandara](https://github.com/HasinduBandara)
 
 - 📝 I regularly write articles on [d](d)
 

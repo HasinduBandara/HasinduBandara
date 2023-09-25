@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **dd**
 
-- 📫 How to reach me **d**
+- 📫 How to reach me **linkedin.com/in/hasindubandara**
 
 - 📄 Know about my experiences [d](d)
 

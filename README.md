@@ -15,15 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HasinduBandara](https://github.com/HasinduBandara)
 
-- 📝 I regularly write articles on [d](d)
-
 - 💬 Ask me about **dd**
 
-- 📫 How to reach me **http://linkedin.com/hasindubandara**
+- 📫 How to reach me **hasindubandara19@gmail.com**
 
-- 📄 Know about my experiences [d](d)
-
-- ⚡ Fun fact **d**
+- ⚡ Fun fact **help to the people :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

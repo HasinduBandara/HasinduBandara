@@ -11,7 +11,7 @@
 
 - 🌱 I’m **Undergraduate Software Engineering student in SLIIT**
 
-- 👯 I’m looking to collaborate on [dd](dd)
+- 👯 Passionate about QA! Looking to collaborate on software testing, automation, and web quality assurance.
 
 - 👨‍💻 All of my projects are available at [https://github.com/HasinduBandara](https://github.com/HasinduBandara)
 

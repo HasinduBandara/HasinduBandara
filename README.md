@@ -40,6 +40,6 @@
 
 # My GitHub Profile
 
-![Current Mood](https://tenor.com/bqqal.gif)
+![Current Mood](https://tenor.com/view/korean-baby-gif-18651099)
 
 

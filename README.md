@@ -11,7 +11,7 @@
 
 - 🌱 I’m **Undergraduate Software Engineering student in SLIIT**
 
-- 👯 I’m looking to collaborate on (dd)
+- 👯 I’m looking to collaborate on [dd](dd)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HasinduBandara](https://github.com/HasinduBandara)
 

@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HasinduBandara](https://github.com/HasinduBandara)
 
-- 💬 Ask me about **dd**
+- 🔗 Let’s connect! **https://www.linkedin.com/in/hasindubandara/**
 
 - 📫 How to reach me **hasindubandara19@gmail.com**
 

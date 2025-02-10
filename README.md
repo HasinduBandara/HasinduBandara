@@ -39,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasindubandara&show_icons=true&locale=en" alt="hasindubandara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasindubandara&" alt="hasindubandara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasindubandara&show_icons=true&locale=en&layout=compact" alt="hasindubandara" /></p>

@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hasindubandara19@gmail.com**
 
-- ⚡ Fun fact **I may not be a wizard, but I can make divs disappear and reappear with display: none;. 🪄✨ **
+- ⚡ Fun fact : I may not be a wizard, but I can make divs disappear and reappear with display: none;. 🪄✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

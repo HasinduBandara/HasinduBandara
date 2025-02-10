@@ -40,6 +40,6 @@
 
 # My GitHub Profile
 
-![Current Mood](https://tenor.com/view/korean-baby-gif-18651099](https://pin.it/5T5Thzids)
+![Current Mood](https://media.giphy.com/media/Q61LJj43H48z1FIK4X/giphy.gif?cid=790b7611p0gf08mzqwg2fi0dqs0mothh211arlgw9ygfwuby&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 

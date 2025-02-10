@@ -37,8 +37,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasindubandara&show_icons=true&locale=en&layout=compact" alt="hasindubandara" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasindubandara&show_icons=true&locale=en" alt="hasindubandara" /></p>
-# My GitHub Profile
 
-![Current Mood](https://media.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif?cid=ecf05e47fmjyx1vwupuz0h9qf3ygvgitnjnnw6l2nelzbebk&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Current Mood](https://media.giphy.com/media/fJ7dzAwr7dCbm/giphy.gif?cid=790b7611uzwe5v7s2tpsxnnqpwto70nzp5axzwzkvhlqdnlu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
